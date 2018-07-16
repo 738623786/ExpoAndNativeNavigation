@@ -1,0 +1,2 @@
+# ExpoAndNativeNavigation
+一个尚未完成的expo项目
